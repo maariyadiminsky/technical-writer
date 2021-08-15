@@ -1,5 +1,4 @@
 # :pencil: My Published Articles
----
 
 ### 2021
 #### Master React With Ease Series:
