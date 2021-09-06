@@ -2,8 +2,9 @@
 
 ### 2021
 #### Master React With Ease Series:
-* [Understand Event Bubbling Like a Pro (Part 1)](https://mariyadiminsky.medium.com/master-react-with-ease-understand-event-bubbling-like-a-pro-part-1-8389644dca34)
+* [Understand Event Bubbling Like a Pro (Part 1)](https://javascript.plainenglish.io/master-react-with-ease-understand-event-bubbling-like-a-pro-part-1-8389644dca34)
 
+* [Understand Event Bubbling Like a Pro (Part 2)](https://mariyadiminsky.medium.com/master-react-with-ease-understand-event-bubbling-like-a-pro-part-2-62870b0ac1a2)
 ### 2020 - Now
 * [The Girl Who Knew Time Dev Blog](https://blog.trinitymoonstudios.com/series/the-girl-who-knew-time)
 
